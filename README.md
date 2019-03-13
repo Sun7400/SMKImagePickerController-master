@@ -37,15 +37,6 @@
    When system version is iOS 8 or later, Using PhotoKit.  
    如果运行在iOS6或7系统上，用的是AssetsLibrary库获取照片资源。  
    如果运行在iOS8及以上系统上，用的是PhotoKit库获取照片资源。
-   
-## 四. More 更多 
-
-  If you find a bug, please create a issue.  
-  Welcome to pull requests.  
-  More infomation please view code.  
-  如果你发现了bug，请提一个issue。  
-  欢迎给我提pull requests。  
-  更多信息详见代码，也可查看我的博客: [我的博客](http://www.cnblogs.com/tanzhenblog/ "半尺尘 - 博客园")
   
 
 2016.5.23更新：
